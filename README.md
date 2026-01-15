@@ -154,22 +154,3 @@ Practice team collaboration using GitHub
 Create a strong, resume-ready project
 
 ⭐ If you find this project useful, don’t forget to star the repository!
-
-markdown
-Copy code
-
----
-
-### ✅ What this gives you
-- Clean Markdown
-- Professional GitHub rendering
-- Recruiter-friendly
-- Beginner + contributor friendly
-
-If you want next:
-- `CONTRIBUTING.md`
-- `ROADMAP.md`
-- GitHub **Issues + Labels**
-- PR template
-
-Just say **next** 🔥
