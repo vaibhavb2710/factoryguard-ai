@@ -32,9 +32,6 @@ Sensors → Data Collection → Backend API → ML Model
 ↓
 Dashboard / Alerts
 
-yaml
-Copy code
-
 ---
 
 ## 🧩 Tech Stack (Planned)
@@ -45,26 +42,6 @@ Copy code
 - **Machine Learning:** Python, Pandas, NumPy, Scikit-learn
 - **Frontend:** HTML, CSS, JavaScript (React later)
 - **Version Control:** Git & GitHub
-
----
-
-## 📂 Project Structure
-
-> ⚠️ The file structure is already created.  
-Please work **only inside the existing structure**.
-
-factoryguard-ai/
-│
-├── data/ # Sensor datasets (raw & processed)
-├── backend/ # API & server-side logic
-├── ml/ # Machine learning models & training scripts
-├── frontend/ # Dashboard UI
-├── docs/ # Documentation & diagrams
-├── tests/ # Testing files
-└── README.md
-
-markdown
-Copy code
 
 ---
 
