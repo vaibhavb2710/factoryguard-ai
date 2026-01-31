@@ -1,0 +1,11 @@
+{
+    "model": "random_forest_tuned",
+    "prauc": 0.9806812043350756,
+    "precision": 1.0,
+    "recall": 0.7333333333333333,
+    "best_params": {
+        "model__max_depth": 12,
+        "model__min_samples_leaf": 5,
+        "model__n_estimators": 200
+    }
+}
