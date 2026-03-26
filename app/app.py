@@ -6,6 +6,7 @@ import warnings
 
 app = Flask(__name__)
 
+
 # Load trained model with compatibility handling
 MODEL_PATH = "../model/factoryguard_final_model.joblib"
 
